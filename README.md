@@ -11,6 +11,7 @@
 - [Browser, Performance & Security](plans/03-browser-performance-security.md)
 - [Architecture, Tooling & Testing](plans/04-architecture-tooling-testing.md)
 - [Практические проекты (Challenges)](plans/05-challenges-projects.md)
+- [Future Trends & Horizons](plans/06-future-trends.md)
 
 ## Как пользоваться этим репозиторием
 1. Выберите интересующую тему.
