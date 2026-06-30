@@ -38,3 +38,10 @@
 ### 2. Защита от XSS, CSRF, Clickjacking
 *   **Руководство:** XSS (инъекции скриптов), CSRF (подделка межсайтовых запросов). Защита: санитайзинг, CSP, Anti-CSRF токены.
 *   **Поиск:** "OWASP Top 10 web security", "Content Security Policy MDN".
+
+## Self-Check
+1. Опишите Critical Rendering Path. Какие этапы блокируют рендеринг?
+2. В чем разница между `IntersectionObserver` и `scroll` event? Что производительнее?
+3. Что такое CLS и как его минимизировать в React-приложении?
+4. Как работает Same-Origin Policy и зачем нужен CORS?
+5. В чем разница между XSS и CSRF и какие стратегии защиты наиболее эффективны против каждого?
